@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+body
+{
+    width: 500px;
+    margin: auto;
+    background: #ebebeb;
+    color: #7d7d7d;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about, .social-Network, main
+{
+    background: #ffffff;
+    padding: 20px 20px 10px 20px;
+    margin: 30px 0;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    width: 500px;
+    
+}
+
+.about_img
+{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    border: 3px solid #cccccc;
+    width: 100px;
+    height: 100px;
+}
+
+.about_h2
+{
+    color: #dd5555;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.4rem;
+    margin: 17px 0;
+    text-transform: capitalize;
+}
+
+.about_h5
+{
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 0 15px 0;
+    letter-spacing: .3px;
+    font-size: 1.1rem;
+}
+em
+{
+    font-weight: bold;
+    color: #7d7d7d;
+}
+
+.about_button
+{
+    background: #dd5555;
+    display: block;
+    margin: 10px auto;
+    width: 140px;
+    height: 40px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.about_p{
+    text-align: justify;
+    line-height: 1.5rem;
+    font-size: .9;
+}
+
+.about_span
+{
+    text-transform: uppercase;
+}
+
+.social-Network
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.facebook, .Linkedin, .Twitter
+{
+    color: #cccccc;
+    font-size: 1.3rem;
+    text-align: center;
+    margin: 50px 0;
+}
+
+.odyssey, .Hulot, .Alien
+{
+    margin: 50px 20px;
+}
+
+.movie_h2
+{
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+
+}
+
+.Hulot, .Alien
+{
+    clear: both;
+}
+.movie_img 
+{
+    float: left;
+    width: auto;
+    height: 120px;
+    margin-right: 20px;
+}
+
+.movie_p
+{
+    text-align: justify;
+    line-height: 20px;
+}
+
+a, a:visited
+{
+    text-decoration: none;
+    color: #cccccc;
+    margin: 10px;
+}
