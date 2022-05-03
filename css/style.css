@@ -70,6 +70,12 @@ em
     line-height: 40px;
 }
 
+.about_button:hover
+{
+    background: #fff;
+    color: #dd5555;
+}
+
 .about_p{
     text-align: justify;
     line-height: 1.5rem;
@@ -132,4 +138,9 @@ a, a:visited
     text-decoration: none;
     color: #cccccc;
     margin: 10px;
+}
+
+a:hover
+{
+    color: black;
 }
