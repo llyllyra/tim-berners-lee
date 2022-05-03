@@ -6,4 +6,4 @@ Reproduction de ![img](img/goal-css.png)
 
 Langage utilisé:
 * HTML
-* CSS
+* CSS.
