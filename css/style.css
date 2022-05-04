@@ -31,7 +31,7 @@ body
     height: 100px;
 }
 
-.about_h2
+.about_h1
 {
     color: #dd5555;
     text-align: center;
@@ -41,7 +41,7 @@ body
     text-transform: capitalize;
 }
 
-.about_h5
+.about_h2
 {
     text-align: center;
     font-weight: bold;
@@ -94,7 +94,7 @@ em
     justify-content: center;
 }
 
-.facebook, .Linkedin, .Twitter
+.div_social-Network
 {
     color: #cccccc;
     font-size: 1.3rem;
@@ -102,13 +102,13 @@ em
     margin: 50px 10px;
 }
 
-.odyssey, .Hulot, .Alien
+.article_movie
 {
     margin: 50px 20px;
     text-align: center;
 }
 
-.movie_h2
+.movie_h1
 {
     text-align: center;
     margin: 20px 0;
@@ -116,10 +116,6 @@ em
 
 }
 
-.Hulot, .Alien
-{
-    clear: both;
-}
 .movie_img 
 {
     float: left;
