@@ -99,12 +99,13 @@ em
     color: #cccccc;
     font-size: 1.3rem;
     text-align: center;
-    margin: 50px 0;
+    margin: 50px 10px;
 }
 
 .odyssey, .Hulot, .Alien
 {
     margin: 50px 20px;
+    text-align: center;
 }
 
 .movie_h2
@@ -137,10 +138,15 @@ a, a:visited
 {
     text-decoration: none;
     color: #cccccc;
-    margin: 10px;
+    
 }
 
 a:hover
 {
     color: black;
+}
+
+.movie_Surligne
+{
+    background: #d4d4d4;
 }
