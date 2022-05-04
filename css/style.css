@@ -106,6 +106,7 @@ em
 {
     margin: 50px 20px;
     text-align: center;
+    clear: both;
 }
 
 .movie_h1
@@ -146,3 +147,4 @@ a:hover
 {
     background: #d4d4d4;
 }
+
